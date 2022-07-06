@@ -1,2 +1,7 @@
-# dio-desafio-clone-instagram
-Desafio de Projeto - recriando a página inicial do Instagram
+# Desafio DIO - Recriando a página inicial do Instagram
+
+Repositório com os arquivos feitos para criar a página inicial do Instagram.
+
+### Linguagens utilizadas
+- HTML
+- CSS
